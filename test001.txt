@@ -4,3 +4,4 @@ test 04-Jul - Feature 001 new line 1 -- removed cause it is on the wrong branch
 test 11-Jul - ForkBranch001 - added line 1
 test 18-Jul - Local001 - line 1
 test 18-Jul - Local001 - line 2
+test 18-Jul - add line 1 in main branch
